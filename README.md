@@ -59,9 +59,10 @@ We successfully built a machine learning model that can predict the type of colo
 The full code for this project is available on GitHub and Google Colab.
 
 ### Screenshots
+**Data Preprocessing**
 ![Screenshot 2024-11-11 152529](https://github.com/user-attachments/assets/a9ffaf10-d84e-467c-910a-877afdcec89f)
 
 ![Screenshot 2024-11-11 152501](https://github.com/user-attachments/assets/e74e9519-837f-4838-b2b5-0fba945c844d)
-
+**evaluation**
 ![Screenshot 2024-11-11 152401](https://github.com/user-attachments/assets/1e1584c8-86ca-4f78-8823-3c0cd3c419f5)
 
