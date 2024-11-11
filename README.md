@@ -55,8 +55,7 @@ The Decision Tree Classifier outperformed the Logistic Regression model on all m
 We successfully built a machine learning model that can predict the type of colon cancer with high accuracy. The model can be used by healthcare professionals to assist in early detection and accurate prediction of colon cancer type.
 
 ### Documentation
-
-The full code for this project is available on GitHub and Google Colab.
+https://github.com/deepak447/Colon-Cancer-Prediction-/tree/main
 
 ### Screenshots
 **Data Preprocessing**
